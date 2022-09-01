@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Pusat Informasi_fas fa-cog</name>
+   <tag></tag>
+   <elementGuidId>85b11cee-f615-4ca7-bd5e-1fe666efb35f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[9]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-cog</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>12563650-4ef5-4b07-b769-9f2bcb9a83f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-cog</value>
+      <webElementGuid>d63ce4f7-8dbe-45a0-abad-64c486d8f04b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-bg&quot;]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/a[@class=&quot;menu sidebarMenu show&quot;]/i[@class=&quot;fas fa-cog&quot;]</value>
+      <webElementGuid>bee639b2-816c-43c5-bce8-cae85c5ea539</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/a/i</value>
+      <webElementGuid>71f8d6c2-9c8e-44fb-91ee-3b9207700902</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

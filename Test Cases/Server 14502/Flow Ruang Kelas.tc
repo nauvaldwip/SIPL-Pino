@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Flow Ruang Kelas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b615c74a-c2de-43fa-8569-f20f0fc3315f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4fc50aa7-7d79-40dd-bd73-b4a9a279e9d9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4fc50aa7-7d79-40dd-bd73-b4a9a279e9d9</id>
+      <masked>false</masked>
+      <name>satdik</name>
+   </variable>
+</TestCaseEntity>

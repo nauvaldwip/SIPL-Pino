@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Kurikulum</name>
+   <tag></tag>
+   <elementGuidId>33010b84-0baa-46b2-b271-a6de9fb0a189</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Modul Ajar'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ea5daf0b-742c-4132-a2e4-de68c9210325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kurikulum</value>
+      <webElementGuid>55979b64-2496-440a-98fc-29dadee28b09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-bg&quot;]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/a[@class=&quot;menu sidebarMenu&quot;]/span[1]</value>
+      <webElementGuid>b2a1463d-bc62-47e6-bdb0-f68869700460</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modul Ajar'])[1]/following::span[1]</value>
+      <webElementGuid>d3732363-f1c3-4985-84e1-7e145afa2af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alumni'])[1]/following::span[2]</value>
+      <webElementGuid>b230953b-2a31-420f-b73f-9fee4b852b58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Pendidikan'])[1]/preceding::span[1]</value>
+      <webElementGuid>ed6a21c7-69c7-41cc-8232-fd795b42e966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mata Pelajaran'])[1]/preceding::span[2]</value>
+      <webElementGuid>7da6ead7-85fd-4726-a4f7-d0b9f1a99ba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kurikulum']/parent::*</value>
+      <webElementGuid>0908b53c-cd1d-4f93-b807-a8ad737520de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span</value>
+      <webElementGuid>5843a0fa-2e46-4dd2-87a9-950199afd9b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Kurikulum' or . = 'Kurikulum')]</value>
+      <webElementGuid>b4c3485e-ab4d-47c0-a28d-6cd54767dc89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
